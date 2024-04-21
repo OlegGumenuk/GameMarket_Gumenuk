@@ -1,5 +1,42 @@
 body {
     background: rgb(249,255,0);
     background: radial-gradient(circle, rgba(249,255,0,1) 0%, rgba(117,255,1,1) 50%, rgba(219,255,0,1) 100%);
+
 }
 
+.game-button {
+    position: absolute;
+    left: 780px;
+    top: 100px;
+    background-color: green;
+    padding: 50px 100px;
+    border: 10px solid lime;
+    border-radius: 5px;
+    color: red;
+    font-size: 90px;
+    cursor: pointer;
+}
+.review-button {
+    position: absolute;
+    left: 720px;
+    top: 350px;
+    background-color: green;
+    padding: 50px 100px;
+    border: 10px solid lime;
+    border-radius: 5px;
+    color: red;
+    font-size: 90px;
+    cursor: pointer;
+}
+.github-button {
+    position: absolute;
+    left: 722px;
+    top: 600px;
+    background-color: green;
+    padding: 50px 100px;
+    border: 10px solid lime;
+    border-radius: 5px;
+    color: red;
+    font-size: 90px;
+    cursor: pointer;
+}
