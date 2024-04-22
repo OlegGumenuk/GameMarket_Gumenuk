@@ -40,6 +40,14 @@ body {
     font-size: 90px;
     cursor: pointer;
 }
-.img {
-    margin:left
-}
+gif-container {
+    position: absolute;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+  }
+  
+  .gif-container img {
+    width: 30%;
+    height: 30%;
+  }
